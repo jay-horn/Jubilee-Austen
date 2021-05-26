@@ -1,0 +1,33 @@
+***Header-Jubilee Austen|Nav***
+
+Lora 
+  Bold
+    30p
+      #bbc085
+
+    ***NAV*************
+	Source Sans Pro
+	  Regular
+	    18p
+	      #828282
+    *******************
+
+***Header/Tagline***
+
+Lora
+  Bold
+   #9b9b9b
+
+************************
+***ABOUT***
+Lora
+  Bold
+    36p
+      #2b2b2b
+^^^TITLE^^^
+====Paragragh====
+Source Sans Pro
+  21p
+=================
+
+
